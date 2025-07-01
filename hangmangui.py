@@ -1,7 +1,7 @@
 import random, tkinter as tk
 
 err = 0
-progress = ["_ " for i in len(word)]
+progress = ["_" for i in len(word)]
 hangman = [
     """
      +---+
@@ -60,6 +60,7 @@ def start_game():
 def guesser():
     enter_guess.delete(0,tk.END)
     guessers = enter_guess.get()
+    #icqntfoucus bro
 
 
 
