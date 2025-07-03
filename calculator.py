@@ -49,3 +49,5 @@ eq = tk.Button(calc, text="=", width=4, height=2, command=equate)
 eq.grid(row=4, column=2, padx=5, pady=5)
 clear = tk.Button(calc, text="del", width=4, height=2, command=dele)
 clear.grid(row=4, column=0, padx=5, pady=5)
+
+calc.mainloop()
