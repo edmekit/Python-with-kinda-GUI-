@@ -1,6 +1,6 @@
 this will be how the calculator look like
 
-![Calc](tutspcs/Screenshot 2025-07-03 154904.png)
+![Calc](tutspcs/Screenshot%202025-07-03%20154904.png)
 
 lets try it out
 
